@@ -12,8 +12,6 @@ Smart India Hackathon (SIH).
 
 - 🌐 [Live Prototype](https://civic-sentinel-ai.vercel.app/)
 - 🎥 [Video Demo](https://www.youtube.com/watch?v=q9lyEGdKg_c)
-- 📊 [SIH Presentation](docs/Civic-Sentinel-SIH-Presentation.pptx)
-- 📄 [Project Report](docs/Civic-Sentinel-SIH-Report.pdf)
 
 ## ✨ Features
 
